@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "main": "eslint-config.json",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
+    },
     "scripts": {},
     "repository": {
         "type": "git",
