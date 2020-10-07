@@ -11,7 +11,7 @@
 ### Install
 
 ```console
-$ npm i @lxghtless/eslint-config-prettier
+$ npm i -D @lxghtless/eslint-config-prettier
 ```
 
 > Usage
