@@ -1,0 +1,28 @@
+{
+    "name": "@lxghtless/eslint-config-prettier",
+    "version": "1.0.0",
+    "description": "",
+    "main": "eslint-config.json",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lxghtless/eslint-config-prettier.git"
+    },
+    "keywords": [
+        "eslint",
+        "prettier",
+        "lxghtless"
+    ],
+    "author": "lxghtless",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lxghtless/eslint-config-prettier/issues"
+    },
+    "homepage": "https://github.com/lxghtless/eslint-config-prettier#readme",
+    "dependencies": {
+        "eslint": "^7.10.0",
+        "eslint-config-prettier": "^6.12.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "prettier": "^2.1.2"
+    }
+}
