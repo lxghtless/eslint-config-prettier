@@ -1,7 +1,7 @@
 {
     "name": "@lxghtless/eslint-config-prettier",
     "version": "1.0.0",
-    "description": "",
+    "description": "Basic recommended eslint config with prettier.",
     "main": "eslint-config.json",
     "publishConfig": {
         "access": "public",
@@ -24,9 +24,9 @@
     },
     "homepage": "https://github.com/lxghtless/eslint-config-prettier#readme",
     "dependencies": {
-        "eslint": "^7.10.0",
-        "eslint-config-prettier": "^6.12.0",
-        "eslint-plugin-prettier": "^3.1.4",
-        "prettier": "^2.1.2"
+        "eslint": "^7.20.0",
+        "eslint-config-prettier": "^8.1.0",
+        "eslint-plugin-prettier": "^3.3.1",
+        "prettier": "^2.2.1"
     }
 }
